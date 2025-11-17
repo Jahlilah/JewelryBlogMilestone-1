@@ -1,4 +1,3 @@
-
 (function () {
   const form = document.getElementById('quizForm');
   const resultsBox = document.getElementById('results');
